@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="768"
+   height="1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="pompage_recherche_1.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5915"
+     inkscape:cx="137.12492"
+     inkscape:cy="528.45514"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="776"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     gridtolerance="10"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3025"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="true"
+       spacingx="1.2px" />
+    <sodipodi:guide
+       position="68,1024"
+       orientation="474,0"
+       id="guide4709" />
+    <sodipodi:guide
+       position="700,550"
+       orientation="-474,0"
+       id="guide4713" />
+    <sodipodi:guide
+       position="700,1021.9"
+       orientation="157.89999,0"
+       id="guide4717" />
+    <sodipodi:guide
+       position="700,864.00001"
+       orientation="0,68"
+       id="guide4719" />
+    <sodipodi:guide
+       position="768,864.00001"
+       orientation="-157.89999,0"
+       id="guide4721" />
+    <sodipodi:guide
+       position="758.4,1024"
+       orientation="0,-68"
+       id="guide4723" />
+    <sodipodi:guide
+       position="0,1024"
+       orientation="68,0"
+       id="guide4725" />
+    <sodipodi:guide
+       position="0,956"
+       orientation="0,68"
+       id="guide4727" />
+    <sodipodi:guide
+       position="68,956"
+       orientation="-68,0"
+       id="guide4729" />
+    <sodipodi:guide
+       position="68,1024"
+       orientation="0,-68"
+       id="guide4731" />
+    <sodipodi:guide
+       position="768,383.77008"
+       orientation="0,474"
+       id="guide4733" />
+    <sodipodi:guide
+       position="543,392"
+       orientation="-632,0"
+       id="guide4735" />
+    <sodipodi:guide
+       position="543,1024"
+       orientation="0,-474"
+       id="guide4737" />
+    <sodipodi:guide
+       position="68,1024"
+       orientation="159.99998,0"
+       id="guide4741" />
+    <sodipodi:guide
+       position="68,864.00002"
+       orientation="0,157"
+       id="guide4743" />
+    <sodipodi:guide
+       position="225,864.00002"
+       orientation="-159.99998,0"
+       id="guide4745" />
+    <sodipodi:guide
+       position="225,1024"
+       orientation="0,-157"
+       id="guide4747" />
+    <sodipodi:guide
+       position="68,864"
+       orientation="159.99998,0"
+       id="guide4755" />
+    <sodipodi:guide
+       position="68,704.00002"
+       orientation="0,632"
+       id="guide4757" />
+    <sodipodi:guide
+       position="700,704.00002"
+       orientation="-159.99998,0"
+       id="guide4759" />
+    <sodipodi:guide
+       position="700,864"
+       orientation="0,-632"
+       id="guide4761" />
+    <sodipodi:guide
+       position="225,544"
+       orientation="80,0"
+       id="guide4773" />
+    <sodipodi:guide
+       position="225,464"
+       orientation="0,158"
+       id="guide4775" />
+    <sodipodi:guide
+       position="383,464"
+       orientation="-80,0"
+       id="guide4777" />
+    <sodipodi:guide
+       position="383,544"
+       orientation="0,-158"
+       id="guide4779" />
+    <sodipodi:guide
+       position="225,704"
+       orientation="80,0"
+       id="guide4781" />
+    <sodipodi:guide
+       position="225,624"
+       orientation="0,158"
+       id="guide4783" />
+    <sodipodi:guide
+       position="383,624"
+       orientation="-80,0"
+       id="guide4785" />
+    <sodipodi:guide
+       position="383,704"
+       orientation="0,-158"
+       id="guide4787" />
+    <sodipodi:guide
+       position="225,624"
+       orientation="80,0"
+       id="guide4789" />
+    <sodipodi:guide
+       position="225,544"
+       orientation="0,158"
+       id="guide4791" />
+    <sodipodi:guide
+       position="383,544"
+       orientation="-80,0"
+       id="guide4793" />
+    <sodipodi:guide
+       position="383,624"
+       orientation="0,-158"
+       id="guide4795" />
+    <sodipodi:guide
+       position="543,383.77008"
+       orientation="80,0"
+       id="guide4799" />
+    <sodipodi:guide
+       position="543,303.77008"
+       orientation="0,157"
+       id="guide4801" />
+    <sodipodi:guide
+       position="700,303.77008"
+       orientation="-80,0"
+       id="guide4803" />
+    <sodipodi:guide
+       position="700,383.77008"
+       orientation="0,-157"
+       id="guide4805" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362183)">
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="57"
+       y="186.36218"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="57"
+         y="186.36218"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;font-family:Sans;-inkscape-font-specification:Sans">pompage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="63"
+       y="348.36218"
+       id="text2989"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="63"
+         y="348.36218"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans">pompe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="227"
+       y="442.36218"
+       id="text2993"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan2995"
+         x="227"
+         y="442.36218">chaussure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="68"
+       y="692.36218"
+       id="text2997"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2999"
+         x="68"
+         y="692.36218">forage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="228"
+       y="502.36218"
+       id="text3001"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan3003"
+         x="228"
+         y="502.36218">shadoks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="68"
+       y="662.36218"
+       id="text3009"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-y="3.8696289"><tspan
+         sodipodi:role="line"
+         id="tspan3011"
+         x="68"
+         y="662.36218">derrick</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="67"
+       y="602.36218"
+       id="text3013"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3015"
+         x="67"
+         y="602.36218">source</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3017"
+       y="632.36218"
+       x="67"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="632.36218"
+         x="67"
+         id="tspan3019"
+         sodipodi:role="line">géologie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="384"
+       y="442.36218"
+       id="text3021"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan3023"
+         x="384"
+         y="442.36218">liquide</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4603"
+       y="532.36218"
+       x="227"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="532.36218"
+         x="227"
+         id="tspan4605"
+         sodipodi:role="line">exercice </tspan><tspan
+         y="562.36218"
+         x="227"
+         sodipodi:role="line"
+         id="tspan4797">sportif</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4607"
+       y="442.36218"
+       x="67"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="442.36218"
+         x="67"
+         id="tspan4609"
+         sodipodi:role="line">gonfler</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="227"
+       y="602.36218"
+       id="text4611"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4613"
+         x="227"
+         y="602.36218">ballon</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4615"
+       y="662.36218"
+       x="225"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="662.36218"
+         x="225"
+         id="tspan4617"
+         sodipodi:role="line">habillement,</tspan><tspan
+         y="687.36218"
+         x="225"
+         sodipodi:role="line"
+         id="tspan4683">mode</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+       x="68"
+       y="832.36218"
+       id="text4619"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan4621"
+         x="68"
+         y="832.36218">être à coté de ses pompes </tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4623"
+       y="872.36218"
+       x="68"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+       xml:space="preserve"><tspan
+         y="872.36218"
+         x="68"
+         id="tspan4625"
+         sodipodi:role="line">coup de pompe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+       x="68"
+       y="912.36218"
+       id="text4627"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan4629"
+         x="68"
+         y="912.36218">à toute pompe</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4631"
+       y="912.36218"
+       x="383"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+       xml:space="preserve"><tspan
+         y="912.36218"
+         x="383"
+         id="tspan4633"
+         sodipodi:role="line">pompe à finance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+       x="384"
+       y="832.36218"
+       id="text4635"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="384"
+         y="832.36218"
+         id="tspan4811">on a pas de pétrole, mais on a </tspan><tspan
+         sodipodi:role="line"
+         x="384"
+         y="857.36218"
+         id="tspan4839">des idées</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4639"
+       y="472.36218"
+       x="384"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="472.36218"
+         x="384"
+         id="tspan4641"
+         sodipodi:role="line">gaz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="67"
+       y="472.36218"
+       id="text4647"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan4649"
+         x="67"
+         y="472.36218">vider</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4651"
+       y="502.36218"
+       x="384"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="502.36218"
+         x="384"
+         id="tspan4653"
+         sodipodi:role="line">eau, air, </tspan><tspan
+         y="532.36218"
+         x="384"
+         sodipodi:role="line"
+         id="tspan4669">bière, essence, </tspan><tspan
+         y="562.36218"
+         x="384"
+         sodipodi:role="line"
+         id="tspan4673">pétrole</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="383"
+       y="602.36218"
+       id="text4655"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4657"
+         x="383"
+         y="602.36218">vélo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="227"
+       y="472.36218"
+       id="text4659"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan4661"
+         x="227"
+         y="472.36218">antisèche</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4663"
+       y="602.36218"
+       x="544"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="602.36218"
+         x="544"
+         id="tspan4665"
+         sodipodi:role="line">école</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text4675"
+       y="502.36218"
+       x="67"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="502.36218"
+         x="67"
+         id="tspan4677"
+         sodipodi:role="line">remplir</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4679"
+       y="632.36218"
+       x="227"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="632.36218"
+         x="227"
+         id="tspan4681"
+         sodipodi:role="line">piscine</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4685"
+       y="632.36218"
+       x="383"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="632.36218"
+         x="383"
+         id="tspan4687"
+         sodipodi:role="line">pneu</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4817"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:10;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4819"><rect
+           id="rect4821"
+           width="155.10114"
+           height="83.147156"
+           x="544.89886"
+           y="620.85284" /></flowRegion><flowPara
+         id="flowPara4823" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4825"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(0,-27.79155)"><flowRegion
+         id="flowRegion4827"><rect
+           id="rect4829"
+           width="157"
+           height="80"
+           x="543"
+           y="640.22992" /></flowRegion><flowPara
+         id="flowPara4831"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">copier sur son voisin</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+       x="68"
+       y="952.36218"
+       id="text4833"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan4835"
+         x="68"
+         y="952.36218">en grande pompe</tspan></text>
+    <flowRoot
+       transform="translate(-160,2.20845)"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="flowRoot4841"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4843"><rect
+           y="640.22992"
+           x="543"
+           height="80"
+           width="157"
+           id="rect4845" /></flowRegion><flowPara
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara4847">bar, tireuse à bière</flowPara></flowRoot>  </g>
+</svg>
