@@ -1,9 +1,14 @@
 Recherches et brouillons divers
-===========================
+===============================
 
 Comment ?
 ---------
-Récupérer une copie complète du répertoire, pour travailler (les fichiers Svg contiennent des images liées).
+Récupérer une copie complète du répertoire, pour travailler (certains fichiers Svg contiennent des images liées).
+
+Pour ouvrir les fichiers SVG : http://inkscape.org/?lang=fr
+
+N'hésitez pas à "pirater", détourner, modifier ce qui s'y trouve déjà. 
+*Lâchez vous, SVP* :)
 
 Quoi y mettre ?
 -------------
