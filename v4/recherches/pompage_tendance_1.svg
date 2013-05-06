@@ -14,7 +14,7 @@
    height="297mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="pompage_tendance_1.svg">
   <sodipodi:namedview
      id="base"
@@ -23,16 +23,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59171598"
-     inkscape:cx="-109.43584"
-     inkscape:cy="605.80735"
+     inkscape:zoom="1.183432"
+     inkscape:cx="356.50835"
+     inkscape:cy="657.99443"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="776"
+     inkscape:window-width="1680"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -64,6 +64,28 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Calque 1">
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path3326"
+       d="m 616.65616,834.15402 c 0.79081,-38.02196 -23.9439,-21.94036 -25.77467,-13.89381 -5.14736,22.62365 -45.20533,17.53514 -45.20533,17.53514"
+       style="fill:none;stroke:#666666;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:3.99999952;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4098"
+       width="8.4300632"
+       height="1.9762745"
+       x="548.05377"
+       y="837.31909" />
+    <rect
+       ry="2"
+       rx="2"
+       y="834.21149"
+       x="544.73895"
+       height="7.5700321"
+       width="8.4300632"
+       id="rect4096"
+       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:3.99999976;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     <text
        sodipodi:linespacing="125%"
        id="text2996"
@@ -119,36 +141,21 @@
          style="font-size:59.99158096px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:eurofurence light;-inkscape-font-specification:'eurofurence light, Light'"
          dx="0 6.22823 6.22823 8.1422205 2.3806183 5.9515457 5.9515457">POMPAGE</tspan></text>
     <image
+       sodipodi:absref="/Users/Gus/Documents/pompage/grafizm/graphiques/v4/recherches/./pompe1.png"
+       xlink:href="./pompe1.png"
        y="338.52219"
        x="424.03278"
        id="image3107"
-       xlink:href="file:///home/augustin/Images/pompage/pompage_graphiques/graphiques/v3/recherches/pompe1.png"
        height="170.914"
        width="319.37723" />
     <image
+       sodipodi:absref="/Users/Gus/Documents/pompage/grafizm/graphiques/v4/recherches/./pompe_descriptif.png"
+       xlink:href="./pompe_descriptif.png"
        y="364.64822"
        x="18.02"
        id="image3096"
-       xlink:href="file:///home/augustin/Images/pompage/pompage_graphiques/graphiques/v3/recherches/pompe_descriptif.png"
        height="321.05402"
        width="403.00476" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text4016"
-       y="360.45206"
-       x="32.048134"
-       style="font-size:36px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6c5353;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
-       xml:space="preserve"><tspan
-         style="font-size:36px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#6c5353;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
-         y="360.45206"
-         x="32.048134"
-         id="tspan4018"
-         sodipodi:role="line">Trouvez chaussure </tspan><tspan
-         id="tspan4020"
-         style="font-size:36px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#6c5353;font-family:Georgia;-inkscape-font-specification:Georgia Italic"
-         y="405.45206"
-         x="32.048134"
-         sodipodi:role="line">à votre pied...</tspan></text>
     <flowRoot
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:10;line-height:125%;letter-spacing:0px;word-spacing:0px"
        id="flowRoot4022"
@@ -211,7 +218,7 @@
        height="240"
        width="286.66663"
        id="rect4142"
-       style="fill:#666666;fill-opacity:1;stroke:none" />
+       style="fill:#dcdcdc;fill-opacity:1;stroke:none" />
     <g
        style="filter:url(#filter4126)"
        id="g4140">
@@ -622,28 +629,6 @@
        inkscape:transform-center-y="2.592933"
        transform="matrix(-0.21462866,0.04842124,-0.04836477,-0.2145198,219.57127,280.48545)" />
     <path
-       sodipodi:nodetypes="csc"
-       inkscape:connector-curvature="0"
-       id="path3326"
-       d="m 616.65616,834.15402 c 0.79081,-38.02196 -23.9439,-21.94036 -25.77467,-13.89381 -5.14736,22.62365 -45.20533,17.53514 -45.20533,17.53514"
-       style="fill:none;stroke:#666666;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <rect
-       ry="2"
-       rx="2"
-       y="834.21149"
-       x="544.73895"
-       height="7.5700321"
-       width="8.4300632"
-       id="rect4096"
-       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:3.99999976;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:3.99999952;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect4098"
-       width="8.4300632"
-       height="1.9762745"
-       x="548.05377"
-       y="837.31909" />
-    <path
        inkscape:connector-curvature="0"
        id="rect4272"
        d="m 327.96875,768.28125 0,39.8125 39.8125,0 39.8125,0 39.8125,0 39.8125,0 39.8125,0 0,-39.8125 -39.8125,0 -39.8125,0 -39.8125,0 -39.8125,0 -39.8125,0 z"
@@ -664,12 +649,26 @@
        id="path4297"
        inkscape:connector-curvature="0" />
     <image
+       sodipodi:absref="/Users/Gus/Documents/pompage/grafizm/graphiques/v4/recherches/./pompe3.png"
+       xlink:href="./pompe3.png"
        y="438.51047"
        x="515.37189"
        id="image3118"
-       xlink:href="file:///home/augustin/Images/pompage/pompage_graphiques/graphiques/v3/recherches/pompe3.png"
        height="114.01019"
        width="263.1824"
        transform="matrix(0.98982199,0.14231103,-0.14231103,0.98982199,0,0)" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3933"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6c5353;fill-opacity:0.91764706;stroke:none;font-family:Sans"
+       transform="translate(61.685,-54.925)"><flowRegion
+         id="flowRegion3935"><rect
+           id="rect3937"
+           width="228.15001"
+           height="199.41998"
+           x="-23.66"
+           y="418.61218"
+           style="fill:#6c5353;fill-opacity:0.91764706" /></flowRegion><flowPara
+         id="flowPara3939"
+         style="font-size:40px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#6c5353;fill-opacity:0.91764706;font-family:Georgia;-inkscape-font-specification:Georgia Italic">Trouver chaussure à son pied</flowPara></flowRoot>  </g>
 </svg>
