@@ -1,5 +1,8 @@
 Recherches et brouillons divers
 ===============================
+Pourquoi ?
+----------
+Centraliser et consolider les idées visuelles, graphiques autour de la refonte de pompage, en mode "open-source".
 
 Comment ?
 ---------
